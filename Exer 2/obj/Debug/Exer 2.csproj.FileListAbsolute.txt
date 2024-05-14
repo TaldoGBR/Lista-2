@@ -1,0 +1,16 @@
+C:\Users\aluno\Downloads\Taldo codigo\lista 2\Exer 2\bin\Debug\Exer 2.exe.config
+C:\Users\aluno\Downloads\Taldo codigo\lista 2\Exer 2\bin\Debug\Exer 2.exe
+C:\Users\aluno\Downloads\Taldo codigo\lista 2\Exer 2\bin\Debug\Exer 2.pdb
+C:\Users\aluno\Downloads\Taldo codigo\lista 2\Exer 2\obj\Debug\Exer 2.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\Taldo codigo\lista 2\Exer 2\obj\Debug\Exer 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Downloads\Taldo codigo\lista 2\Exer 2\obj\Debug\Exer 2.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\Taldo codigo\lista 2\Exer 2\obj\Debug\Exer 2.exe
+C:\Users\aluno\Downloads\Taldo codigo\lista 2\Exer 2\obj\Debug\Exer 2.pdb
+E:\IFSP\Taldo codigo\lista 2\Exer 2\bin\Debug\Exer 2.exe.config
+E:\IFSP\Taldo codigo\lista 2\Exer 2\bin\Debug\Exer 2.exe
+E:\IFSP\Taldo codigo\lista 2\Exer 2\bin\Debug\Exer 2.pdb
+E:\IFSP\Taldo codigo\lista 2\Exer 2\obj\Debug\Exer 2.csproj.AssemblyReference.cache
+E:\IFSP\Taldo codigo\lista 2\Exer 2\obj\Debug\Exer 2.csproj.SuggestedBindingRedirects.cache
+E:\IFSP\Taldo codigo\lista 2\Exer 2\obj\Debug\Exer 2.csproj.CoreCompileInputs.cache
+E:\IFSP\Taldo codigo\lista 2\Exer 2\obj\Debug\Exer 2.exe
+E:\IFSP\Taldo codigo\lista 2\Exer 2\obj\Debug\Exer 2.pdb

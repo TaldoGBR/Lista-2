@@ -1,0 +1,8 @@
+E:\IFSP\Taldo codigo\lista 2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\IFSP\Taldo codigo\lista 2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\IFSP\Taldo codigo\lista 2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\IFSP\Taldo codigo\lista 2\ConsoleApp1\obj\Debug\exer 5.csproj.AssemblyReference.cache
+E:\IFSP\Taldo codigo\lista 2\ConsoleApp1\obj\Debug\exer 5.csproj.SuggestedBindingRedirects.cache
+E:\IFSP\Taldo codigo\lista 2\ConsoleApp1\obj\Debug\exer 5.csproj.CoreCompileInputs.cache
+E:\IFSP\Taldo codigo\lista 2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\IFSP\Taldo codigo\lista 2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
