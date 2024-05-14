@@ -1,0 +1,8 @@
+C:\Users\aluno\Downloads\Taldo codigo\lista 2\lista 2\obj\Debug\lista 2.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\Taldo codigo\lista 2\lista 2\obj\Debug\lista 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Downloads\Taldo codigo\lista 2\lista 2\obj\Debug\lista 2.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\Taldo codigo\lista 2\lista 2\bin\Debug\lista 2.exe.config
+C:\Users\aluno\Downloads\Taldo codigo\lista 2\lista 2\bin\Debug\lista 2.exe
+C:\Users\aluno\Downloads\Taldo codigo\lista 2\lista 2\bin\Debug\lista 2.pdb
+C:\Users\aluno\Downloads\Taldo codigo\lista 2\lista 2\obj\Debug\lista 2.exe
+C:\Users\aluno\Downloads\Taldo codigo\lista 2\lista 2\obj\Debug\lista 2.pdb
