@@ -1,0 +1,8 @@
+E:\IFSP\Taldo codigo\lista 2\exer 7\bin\Debug\exer 7.exe.config
+E:\IFSP\Taldo codigo\lista 2\exer 7\bin\Debug\exer 7.exe
+E:\IFSP\Taldo codigo\lista 2\exer 7\bin\Debug\exer 7.pdb
+E:\IFSP\Taldo codigo\lista 2\exer 7\obj\Debug\exer 7.csproj.AssemblyReference.cache
+E:\IFSP\Taldo codigo\lista 2\exer 7\obj\Debug\exer 7.csproj.SuggestedBindingRedirects.cache
+E:\IFSP\Taldo codigo\lista 2\exer 7\obj\Debug\exer 7.csproj.CoreCompileInputs.cache
+E:\IFSP\Taldo codigo\lista 2\exer 7\obj\Debug\exer 7.exe
+E:\IFSP\Taldo codigo\lista 2\exer 7\obj\Debug\exer 7.pdb
